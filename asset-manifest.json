@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/barber-booking/static/css/main.aae3f28a.chunk.css",
+    "main.css": "/barber-booking/static/css/main.194f9dee.chunk.css",
     "main.js": "/barber-booking/static/js/main.061f64f4.chunk.js",
     "main.js.map": "/barber-booking/static/js/main.061f64f4.chunk.js.map",
     "runtime-main.js": "/barber-booking/static/js/runtime-main.d0211a1d.js",
@@ -9,10 +9,10 @@
     "static/js/2.4688efce.chunk.js": "/barber-booking/static/js/2.4688efce.chunk.js",
     "static/js/2.4688efce.chunk.js.map": "/barber-booking/static/js/2.4688efce.chunk.js.map",
     "index.html": "/barber-booking/index.html",
-    "precache-manifest.00aeaa38f75e1dab32df41002139633b.js": "/barber-booking/precache-manifest.00aeaa38f75e1dab32df41002139633b.js",
+    "precache-manifest.71d30f4d3df29c32217e959b6708fea6.js": "/barber-booking/precache-manifest.71d30f4d3df29c32217e959b6708fea6.js",
     "service-worker.js": "/barber-booking/service-worker.js",
     "static/css/2.a1b7a17e.chunk.css.map": "/barber-booking/static/css/2.a1b7a17e.chunk.css.map",
-    "static/css/main.aae3f28a.chunk.css.map": "/barber-booking/static/css/main.aae3f28a.chunk.css.map",
+    "static/css/main.194f9dee.chunk.css.map": "/barber-booking/static/css/main.194f9dee.chunk.css.map",
     "static/js/2.4688efce.chunk.js.LICENSE.txt": "/barber-booking/static/js/2.4688efce.chunk.js.LICENSE.txt",
     "static/media/image.jpg": "/barber-booking/static/media/image.63f4e1b0.jpg",
     "static/media/global.scss": "/barber-booking/static/media/subset-SquadaOne-Regular.82b0f83a.woff"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.d0211a1d.js",
     "static/css/2.a1b7a17e.chunk.css",
     "static/js/2.4688efce.chunk.js",
-    "static/css/main.aae3f28a.chunk.css",
+    "static/css/main.194f9dee.chunk.css",
     "static/js/main.061f64f4.chunk.js"
   ]
 }
