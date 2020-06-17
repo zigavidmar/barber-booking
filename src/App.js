@@ -8,7 +8,7 @@ function App() {
     <Router>
       <Switch>
         <Route basename="/barber-booking" path="/" exact component={AppointmentBooking}/>
-        <Route path="/barberbooked" component={AppointmentBooked}/>
+        <Route path="/barberbooked/" component={AppointmentBooked}/>
       </Switch>
     </Router>
   );
