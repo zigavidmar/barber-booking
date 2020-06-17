@@ -14,7 +14,7 @@ export class AppointmentBooked extends Component {
 
 
     componentDidMount() {
-        const getGif = 'http://api.giphy.com/v1/gifs/search?api_key=KeTn0RgXZQF8EDkUGgQmSaJYuWPEz5mI&q=barber';
+        const getGif = 'https://api.giphy.com/v1/gifs/search?api_key=KeTn0RgXZQF8EDkUGgQmSaJYuWPEz5mI&q=barber';
 
         // GET GIF
 
