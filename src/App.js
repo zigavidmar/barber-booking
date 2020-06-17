@@ -7,8 +7,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route basename="/barber-booking" path="/" exact component={AppointmentBooking}/>
-        <Route path="/barberbooked/" component={AppointmentBooked}/>
+        <Route basename="/barber-booking" path={process.env.PUBLIC_URL + "/"} exact component={AppointmentBooking}/>
+        <Route path={process.env.PUBLIC_URL + '/barberbooked'} component={AppointmentBooked}/>
       </Switch>
     </Router>
   );

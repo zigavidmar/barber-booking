@@ -233,7 +233,7 @@ export class BookAppointment extends Component {
     render() {
         const { barbers, services, servicePrice, fields, errors, getWorkingHours, dateDisabled, timeDisabled } = this.state;
         if (this.state.formValidated === true) {
-            return <Redirect to="barberbooked/"/>
+            return <Redirect to="/barberbooked"/>
         } else {
             
         }
