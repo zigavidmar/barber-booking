@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import '../sass/bookingsuccess.scss';
+import { LazyLoadImage } from 'react-lazy-load-image-component'
 
 export class AppointmentBooked extends Component {
 
@@ -26,7 +27,7 @@ export class AppointmentBooked extends Component {
             const gifs = response.data;
             const randomGif = gifs[Math.floor(Math.random() * gifs.length)];
             this.setState({
-                gif: randomGif.images.original.url
+                gif: randomGif.images.fixed_height.url
             }, () => console.log(this.state.gif))
         })
         .catch(err => {
@@ -46,7 +47,11 @@ export class AppointmentBooked extends Component {
 
                         <div className="success-gif-wrapper">
                             
-                            <img alt="Barber gif" src={gif} />
+                            <LazyLoadImage
+                            alt="Barber gif"
+                            src={gif}
+                            />
+
                         </div>
                     </div>
 

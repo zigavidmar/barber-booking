@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import '../sass/app.scss';
 import SectionImage from '../img/image.jpg';
 import BookAppointment from './BookAppointment';
+import { LazyLoadImage } from 'react-lazy-load-image-component'
 
 export class AppointmentBooking extends Component {
     render() {
@@ -19,7 +20,10 @@ export class AppointmentBooking extends Component {
 
                     <div className="section-image">
                         <div className="image-wrapper">
-                            <img alt="Barber banner" src={SectionImage} />
+                            <LazyLoadImage
+                                alt="Barber banner"
+                                src={SectionImage}
+                            />
                         </div>
                     </div>
 
