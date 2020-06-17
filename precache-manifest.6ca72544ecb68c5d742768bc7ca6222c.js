@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dd95c77cd143fb2c28d7367e1c3dc745",
+    "revision": "04bb3c9e5627733c436cac65cf199824",
     "url": "/book-a-barber-live/index.html"
   },
   {
-    "revision": "24d33571631b265000a2",
+    "revision": "bf9437bd0b130b41ec74",
     "url": "/book-a-barber-live/static/css/2.a1b7a17e.chunk.css"
   },
   {
-    "revision": "81485268b1d25aeb327f",
-    "url": "/book-a-barber-live/static/css/main.c3160464.chunk.css"
+    "revision": "20403683e8ab2714fa5a",
+    "url": "/book-a-barber-live/static/css/main.185dabbe.chunk.css"
   },
   {
-    "revision": "24d33571631b265000a2",
-    "url": "/book-a-barber-live/static/js/2.4688efce.chunk.js"
+    "revision": "bf9437bd0b130b41ec74",
+    "url": "/book-a-barber-live/static/js/2.b19bf48f.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/book-a-barber-live/static/js/2.4688efce.chunk.js.LICENSE.txt"
+    "url": "/book-a-barber-live/static/js/2.b19bf48f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "81485268b1d25aeb327f",
-    "url": "/book-a-barber-live/static/js/main.e3f11fcb.chunk.js"
+    "revision": "20403683e8ab2714fa5a",
+    "url": "/book-a-barber-live/static/js/main.372fc94a.chunk.js"
   },
   {
     "revision": "c98ed73ffe6ceecd6fe5",
