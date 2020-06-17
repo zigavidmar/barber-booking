@@ -25,11 +25,12 @@
             width: 90%;
             margin-left: auto;
             margin-right: auto;
-            height: 265px;
+            height: 100%;
 
             img {
                 width: 100%;
                 height: auto;
+                max-height: 200px;
             }
         }
     }
