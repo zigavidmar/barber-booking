@@ -5,10 +5,10 @@ import { BrowserRouter as Router, Switch, Route} from 'react-router-dom'
 
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Switch>
-        <Route basename="/barber-booking" path={process.env.PUBLIC_URL} exact component={AppointmentBooking}/>
-        <Route path={process.env.PUBLIC_URL + '#/barberbooked'} component={AppointmentBooked}/>
+        <Route path="/" exact component={AppointmentBooking}/>
+        <Route path="/barberbooked" component={AppointmentBooked}/>
       </Switch>
     </Router>
   );
