@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/barber-booking/static/css/main.5f361e03.chunk.css",
+    "main.js": "/barber-booking/static/js/main.8cfe6b66.chunk.js",
+    "main.js.map": "/barber-booking/static/js/main.8cfe6b66.chunk.js.map",
+    "runtime-main.js": "/barber-booking/static/js/runtime-main.d0211a1d.js",
+    "runtime-main.js.map": "/barber-booking/static/js/runtime-main.d0211a1d.js.map",
+    "static/js/2.ba321933.chunk.js": "/barber-booking/static/js/2.ba321933.chunk.js",
+    "static/js/2.ba321933.chunk.js.map": "/barber-booking/static/js/2.ba321933.chunk.js.map",
+    "index.html": "/barber-booking/index.html",
+    "precache-manifest.377410b299775f77c52b1f1bd579e8b6.js": "/barber-booking/precache-manifest.377410b299775f77c52b1f1bd579e8b6.js",
+    "service-worker.js": "/barber-booking/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/barber-booking/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.ba321933.chunk.js.LICENSE.txt": "/barber-booking/static/js/2.ba321933.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/barber-booking/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0211a1d.js",
+    "static/js/2.ba321933.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8cfe6b66.chunk.js"
+  ]
+}
