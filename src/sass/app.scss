@@ -1,0 +1,88 @@
+.section-booking {
+    width: 100%;
+    height: 100%;
+    background: #fcf4ea;
+
+    .section-title {
+        text-align: center;
+        padding-top: 25px;
+    }
+
+    .section-subtitle {
+        text-align: center;
+        padding-top: 25px;
+        margin: auto;
+        max-width: 53%;
+    }
+
+    .section-image {
+        padding-top: 50px;
+
+        .image-wrapper {
+            border: 2px solid black;
+            padding: 10px;
+            width: 75%;
+
+            img {
+                width: 100%;
+                height: auto;
+                position: relative;
+                top: 2px;
+            }
+        }
+    }
+
+    .section-booking-app {
+        width: 50%;
+        margin-left: auto;
+        position: relative;
+        padding-bottom: 100px;
+    }
+}
+
+// RESPONSIVE
+
+@media only screen and (max-width: 768px) {
+    .section-booking {
+        
+        .section-subtitle {
+            max-width: 100%;
+
+            h3 {
+               display: none;
+            }
+
+            &:after {
+                content: "Great Hair Doesn’t Happen By Chance. It Happens By Appointment!";
+                font-family: 'Roboto Slab';
+                font-size: 16px;
+                letter-spacing: 1px;
+            }
+        }
+
+        .section-image {
+
+            .image-wrapper {
+                width: auto;
+            }
+        }
+
+        .section-booking-app {
+            padding-bottom: 50px;
+            width: 100%;
+            
+            .booking-app-wrapper {
+                top: 25px;
+                width: auto;
+                position: relative;
+            }
+        }
+
+        form {
+            
+            .input-wrapper {
+                width: 100%;
+            }
+        }
+    }
+}

@@ -1,0 +1,166 @@
+// GLOBAL SETTINGS
+* {
+    margin: 0;
+    padding: 0;
+}
+
+// COLORS
+$white: #fff;
+$button: #fe9564;
+
+// HEADINGS
+h1, h2, h3 {
+    font-weight: 500;
+}
+
+h1 {
+    font-family: 'Squada One';
+    font-size: 58px;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-family: 'Squada One';
+    font-size: 37px;
+    letter-spacing: 1.8px;
+    color: $white;
+    text-transform: uppercase;
+}
+
+h3 {
+    font-family: 'Roboto Slab';
+    font-size: 17px;
+    letter-spacing: 1px;
+}
+
+// MAIN CLASSES
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  @media (min-width: 768px) {
+    .container {
+      width: 750px;
+    }
+  }
+  @media (min-width: 992px) {
+    .container {
+      width: 970px;
+    }
+  }
+  @media (min-width: 1200px) {
+    .container {
+      width: 1170px;
+    }
+  }
+
+// FONTS
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-ExtraBold.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Squada One';
+    src: url('../fonts/subset-SquadaOne-Regular.woff2') format('woff2'),
+        url('../fonts/subset-SquadaOne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-Black.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-Light.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-Thin.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-Medium.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-Regular.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-ExtraLight.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-SemiBold.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto Slab';
+    src: url('../fonts/subset-RobotoSlab-Bold.woff2') format('woff2'),
+        url('../fonts/subset-RobotoSlab-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+} 
+
+
+// RESPONSIVE
+
+@media only screen and (max-width: 768px) {
+    h1 {
+        font-size: 36px;
+    }
+    h2 {
+        font-size: 33px;
+    }
+    h3 {
+        font-size: 16px;
+    }
+}
