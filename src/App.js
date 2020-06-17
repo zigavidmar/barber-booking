@@ -7,8 +7,8 @@ function App() {
   return (
     <Router>
       <Switch>
-        <Route path="/" exact component={AppointmentBooking}/>
-        <Route path="/barberbooked" component={AppointmentBooked}/>
+        <Route path="" exact component={AppointmentBooking}/>
+        <Route path="barberbooked/" component={AppointmentBooked}/>
       </Switch>
     </Router>
   );
