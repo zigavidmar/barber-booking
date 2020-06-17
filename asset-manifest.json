@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/barber-booking/static/css/main.194f9dee.chunk.css",
-    "main.js": "/barber-booking/static/js/main.061f64f4.chunk.js",
-    "main.js.map": "/barber-booking/static/js/main.061f64f4.chunk.js.map",
-    "runtime-main.js": "/barber-booking/static/js/runtime-main.d0211a1d.js",
-    "runtime-main.js.map": "/barber-booking/static/js/runtime-main.d0211a1d.js.map",
-    "static/css/2.a1b7a17e.chunk.css": "/barber-booking/static/css/2.a1b7a17e.chunk.css",
-    "static/js/2.4688efce.chunk.js": "/barber-booking/static/js/2.4688efce.chunk.js",
-    "static/js/2.4688efce.chunk.js.map": "/barber-booking/static/js/2.4688efce.chunk.js.map",
-    "index.html": "/barber-booking/index.html",
-    "precache-manifest.71d30f4d3df29c32217e959b6708fea6.js": "/barber-booking/precache-manifest.71d30f4d3df29c32217e959b6708fea6.js",
-    "service-worker.js": "/barber-booking/service-worker.js",
-    "static/css/2.a1b7a17e.chunk.css.map": "/barber-booking/static/css/2.a1b7a17e.chunk.css.map",
-    "static/css/main.194f9dee.chunk.css.map": "/barber-booking/static/css/main.194f9dee.chunk.css.map",
-    "static/js/2.4688efce.chunk.js.LICENSE.txt": "/barber-booking/static/js/2.4688efce.chunk.js.LICENSE.txt",
-    "static/media/image.jpg": "/barber-booking/static/media/image.63f4e1b0.jpg",
-    "static/media/global.scss": "/barber-booking/static/media/subset-SquadaOne-Regular.82b0f83a.woff"
+    "main.css": "/book-a-barber-live/static/css/main.c3160464.chunk.css",
+    "main.js": "/book-a-barber-live/static/js/main.e3f11fcb.chunk.js",
+    "main.js.map": "/book-a-barber-live/static/js/main.e3f11fcb.chunk.js.map",
+    "runtime-main.js": "/book-a-barber-live/static/js/runtime-main.beeadd33.js",
+    "runtime-main.js.map": "/book-a-barber-live/static/js/runtime-main.beeadd33.js.map",
+    "static/css/2.a1b7a17e.chunk.css": "/book-a-barber-live/static/css/2.a1b7a17e.chunk.css",
+    "static/js/2.4688efce.chunk.js": "/book-a-barber-live/static/js/2.4688efce.chunk.js",
+    "static/js/2.4688efce.chunk.js.map": "/book-a-barber-live/static/js/2.4688efce.chunk.js.map",
+    "index.html": "/book-a-barber-live/index.html",
+    "precache-manifest.46a239c66c70824cd2cebebe14aa74f5.js": "/book-a-barber-live/precache-manifest.46a239c66c70824cd2cebebe14aa74f5.js",
+    "service-worker.js": "/book-a-barber-live/service-worker.js",
+    "static/css/2.a1b7a17e.chunk.css.map": "/book-a-barber-live/static/css/2.a1b7a17e.chunk.css.map",
+    "static/css/main.c3160464.chunk.css.map": "/book-a-barber-live/static/css/main.c3160464.chunk.css.map",
+    "static/js/2.4688efce.chunk.js.LICENSE.txt": "/book-a-barber-live/static/js/2.4688efce.chunk.js.LICENSE.txt",
+    "static/media/image.jpg": "/book-a-barber-live/static/media/image.63f4e1b0.jpg",
+    "static/media/global.scss": "/book-a-barber-live/static/media/subset-SquadaOne-Regular.82b0f83a.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.d0211a1d.js",
+    "static/js/runtime-main.beeadd33.js",
     "static/css/2.a1b7a17e.chunk.css",
     "static/js/2.4688efce.chunk.js",
-    "static/css/main.194f9dee.chunk.css",
-    "static/js/main.061f64f4.chunk.js"
+    "static/css/main.c3160464.chunk.css",
+    "static/js/main.e3f11fcb.chunk.js"
   ]
 }
