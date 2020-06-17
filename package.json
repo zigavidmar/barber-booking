@@ -2,7 +2,7 @@
   "name": "barber-book-me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zigavidmar.github.io/barber-booking/",
+  "homepage": "https://zigavidmar.github.io/book-a-barber-live/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
