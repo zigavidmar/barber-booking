@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d98991de207277757aee7404853ffd19",
+    "revision": "26f33dbe71ba773f36f2d8b4d30d75d9",
     "url": "/barber-booking/index.html"
   },
   {
-    "revision": "ba10cd85c7a64cb2e73d",
+    "revision": "24d33571631b265000a2",
     "url": "/barber-booking/static/css/2.a1b7a17e.chunk.css"
   },
   {
-    "revision": "9d0bb6425c76f360d8b8",
+    "revision": "a42b10e641cea0a1fb81",
     "url": "/barber-booking/static/css/main.aae3f28a.chunk.css"
   },
   {
-    "revision": "ba10cd85c7a64cb2e73d",
-    "url": "/barber-booking/static/js/2.7dc63d13.chunk.js"
+    "revision": "24d33571631b265000a2",
+    "url": "/barber-booking/static/js/2.4688efce.chunk.js"
   },
   {
     "revision": "d2966845b94a3318bf32eecc7af8015d",
-    "url": "/barber-booking/static/js/2.7dc63d13.chunk.js.LICENSE.txt"
+    "url": "/barber-booking/static/js/2.4688efce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9d0bb6425c76f360d8b8",
-    "url": "/barber-booking/static/js/main.32c48df4.chunk.js"
+    "revision": "a42b10e641cea0a1fb81",
+    "url": "/barber-booking/static/js/main.2b9f2b8b.chunk.js"
   },
   {
     "revision": "f850afd95b864a31d59d",
