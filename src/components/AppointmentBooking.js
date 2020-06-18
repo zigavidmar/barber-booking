@@ -2,7 +2,8 @@ import React, { Component } from 'react'
 import '../sass/app.scss';
 import SectionImage from '../img/image.jpg';
 import BookAppointment from './BookAppointment';
-import LazyLoad from 'react-lazyload'
+import { LazyLoadImage } from 'react-lazy-load-image-component';
+import 'react-lazy-load-image-component/src/effects/blur.css'
 
 export class AppointmentBooking extends Component {
     render() {
@@ -20,12 +21,13 @@ export class AppointmentBooking extends Component {
 
                     <div className="section-image">
                         <div className="image-wrapper">
-                            <LazyLoad throttle={200} once>
-                                <img 
-                                alt="Barber banner"
+                            <div className="image-inner">
+                                <LazyLoadImage 
+                                alt="Barber"
+                                effect="blur"
                                 src={SectionImage}
                                 />
-                            </LazyLoad>
+                            </div>
                         </div>
                     </div>
 

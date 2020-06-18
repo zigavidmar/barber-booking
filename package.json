@@ -15,7 +15,6 @@
     "react-datepicker": "^3.0.0",
     "react-dom": "^16.13.1",
     "react-lazy-load-image-component": "^1.5.0-beta.0",
-    "react-lazyload": "^2.6.8",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1"
   },

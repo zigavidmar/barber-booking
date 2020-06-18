@@ -22,13 +22,17 @@
             border: 2px solid black;
             padding: 10px;
             width: 75%;
-            height: 590px;
+            height: 585px;
+
+            .image-inner {
+                background: #f9f0e6;
+                height: 100%;
+            }
 
             img {
                 width: 100%;
                 height: auto;
                 position: relative;
-                top: 2px;
             }
         }
     }
@@ -42,6 +46,18 @@
 }
 
 // RESPONSIVE
+
+@media only screen and (max-width: 1199px) {
+    .section-booking .section-image .image-wrapper {
+        height: 485px;
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .section-booking .section-image .image-wrapper {
+        height: 375px;
+    }
+}
 
 @media only screen and (max-width: 768px) {
     .section-booking {
@@ -65,6 +81,7 @@
 
             .image-wrapper {
                 width: auto;
+                height: 100%;
             }
         }
 
