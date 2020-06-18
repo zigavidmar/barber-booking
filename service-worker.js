@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/book-a-barber-live/precache-manifest.f0a21d4bdeba9f03f4e7adf7f1152b3c.js"
+  "/book-a-barber-live/precache-manifest.3e209962b4baf1610cb903854ba6d50b.js"
 );
 
 self.addEventListener('message', (event) => {
