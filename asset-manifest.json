@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/book-a-barber-live/static/css/main.d619d37e.chunk.css",
-    "main.js": "/book-a-barber-live/static/js/main.0c9f35e0.chunk.js",
-    "main.js.map": "/book-a-barber-live/static/js/main.0c9f35e0.chunk.js.map",
+    "main.css": "/book-a-barber-live/static/css/main.a550d57e.chunk.css",
+    "main.js": "/book-a-barber-live/static/js/main.ca5ba981.chunk.js",
+    "main.js.map": "/book-a-barber-live/static/js/main.ca5ba981.chunk.js.map",
     "runtime-main.js": "/book-a-barber-live/static/js/runtime-main.beeadd33.js",
     "runtime-main.js.map": "/book-a-barber-live/static/js/runtime-main.beeadd33.js.map",
-    "static/css/2.a1b7a17e.chunk.css": "/book-a-barber-live/static/css/2.a1b7a17e.chunk.css",
-    "static/js/2.6077b7e7.chunk.js": "/book-a-barber-live/static/js/2.6077b7e7.chunk.js",
-    "static/js/2.6077b7e7.chunk.js.map": "/book-a-barber-live/static/js/2.6077b7e7.chunk.js.map",
+    "static/css/2.2c1dd196.chunk.css": "/book-a-barber-live/static/css/2.2c1dd196.chunk.css",
+    "static/js/2.de827fd0.chunk.js": "/book-a-barber-live/static/js/2.de827fd0.chunk.js",
+    "static/js/2.de827fd0.chunk.js.map": "/book-a-barber-live/static/js/2.de827fd0.chunk.js.map",
     "index.html": "/book-a-barber-live/index.html",
-    "precache-manifest.3d2933a77d6bc1aa9bb605bada0794ee.js": "/book-a-barber-live/precache-manifest.3d2933a77d6bc1aa9bb605bada0794ee.js",
+    "precache-manifest.ebfcbcd50e7fbe3e978bc73932786269.js": "/book-a-barber-live/precache-manifest.ebfcbcd50e7fbe3e978bc73932786269.js",
     "service-worker.js": "/book-a-barber-live/service-worker.js",
-    "static/css/2.a1b7a17e.chunk.css.map": "/book-a-barber-live/static/css/2.a1b7a17e.chunk.css.map",
-    "static/css/main.d619d37e.chunk.css.map": "/book-a-barber-live/static/css/main.d619d37e.chunk.css.map",
-    "static/js/2.6077b7e7.chunk.js.LICENSE.txt": "/book-a-barber-live/static/js/2.6077b7e7.chunk.js.LICENSE.txt",
+    "static/css/2.2c1dd196.chunk.css.map": "/book-a-barber-live/static/css/2.2c1dd196.chunk.css.map",
+    "static/css/main.a550d57e.chunk.css.map": "/book-a-barber-live/static/css/main.a550d57e.chunk.css.map",
+    "static/js/2.de827fd0.chunk.js.LICENSE.txt": "/book-a-barber-live/static/js/2.de827fd0.chunk.js.LICENSE.txt",
     "static/media/image.jpg": "/book-a-barber-live/static/media/image.457c7b93.jpg",
     "static/media/global.scss": "/book-a-barber-live/static/media/subset-SquadaOne-Regular.82b0f83a.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.beeadd33.js",
-    "static/css/2.a1b7a17e.chunk.css",
-    "static/js/2.6077b7e7.chunk.js",
-    "static/css/main.d619d37e.chunk.css",
-    "static/js/main.0c9f35e0.chunk.js"
+    "static/css/2.2c1dd196.chunk.css",
+    "static/js/2.de827fd0.chunk.js",
+    "static/css/main.a550d57e.chunk.css",
+    "static/js/main.ca5ba981.chunk.js"
   ]
 }
