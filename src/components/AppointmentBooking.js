@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import '../sass/app.scss';
 import SectionImage from '../img/image.jpg';
 import BookAppointment from './BookAppointment';
-import { LazyLoadImage } from 'react-lazy-load-image-component'
+import LazyLoad from 'react-lazyload'
 
 export class AppointmentBooking extends Component {
     render() {
@@ -20,10 +20,12 @@ export class AppointmentBooking extends Component {
 
                     <div className="section-image">
                         <div className="image-wrapper">
-                            <LazyLoadImage
+                            <LazyLoad throttle={200} once>
+                                <img 
                                 alt="Barber banner"
                                 src={SectionImage}
-                            />
+                                />
+                            </LazyLoad>
                         </div>
                     </div>
 
