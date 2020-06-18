@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6dada113c608d514b62e88b76077893e",
+    "revision": "885cc56f96e067ac8997d93b9019bdd3",
     "url": "/book-a-barber-live/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/book-a-barber-live/static/css/2.2c1dd196.chunk.css"
   },
   {
-    "revision": "67418b117f869e24cfa9",
-    "url": "/book-a-barber-live/static/css/main.a550d57e.chunk.css"
+    "revision": "2d2744105c90b50301e3",
+    "url": "/book-a-barber-live/static/css/main.c90e5008.chunk.css"
   },
   {
     "revision": "bd323197a05537049cc9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/book-a-barber-live/static/js/2.de827fd0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67418b117f869e24cfa9",
+    "revision": "2d2744105c90b50301e3",
     "url": "/book-a-barber-live/static/js/main.ca5ba981.chunk.js"
   },
   {
