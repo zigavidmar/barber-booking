@@ -36,6 +36,7 @@
             letter-spacing: 0.6px;
             color: black;
             outline: none;
+            border: none;
 
             &::placeholder {
                 font-family: 'Roboto Slab';
@@ -58,9 +59,6 @@
             letter-spacing: 0.6px;
             color: black;
             display: block;
-            &:disabled {
-                opacity: 0.3;
-            }
         }
         &.price {
             width: 100%;
